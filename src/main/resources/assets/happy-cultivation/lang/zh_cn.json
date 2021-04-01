@@ -1,0 +1,15 @@
+{
+  "itemGroup.happy-cultivation.ming": "矿石",
+
+
+
+  "block.happy-cultivation.xuantie": "玄铁矿",
+  "block.happy-cultivation.yuntie":"陨铁矿",
+  "block.happy-cultivation.hantie": "寒铁矿",
+  "block.happy-cultivation.zijingtie":"紫精铁",
+  "block.happy-cultivation.miyin": "秘银矿",
+  "block.happy-cultivation.wukuang":"钨矿",
+  "block.happy-cultivation.chitong": "赤铜矿",
+
+  "item.happy-cultivation.test": "测试"
+}

@@ -8,6 +8,6 @@ import net.fabricmc.api.Environment;
 public class HappyCultivationClient implements ClientModInitializer {
     @Override
     public void onInitializeClient() {
-
+        System.out.println("onInitializeClient");
     }
 }
